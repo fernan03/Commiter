@@ -4,10 +4,10 @@ print("MENU")
 '''3.SALIR'''
 while(observador != 0):
     observador=int(input("Digite una opcion: "))
-    if():
-        break
-    elif():
-        print("")
+    if(observador == 1):
+        print("Hola")
+    elif(observador == 2):
+        print("Sayonara")
     elif():
         print("")
     else:
