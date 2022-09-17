@@ -8,10 +8,10 @@ while(observador != 0):
         break
     elif():
         print("")
-    elif():
-        print("")
+    elif(observador==3):
+        break
     else:
-        print("D")
+        print("digite opcion valida")
     
 else:
     print("termine")
